@@ -9,7 +9,7 @@ const canvasPosition = screenWidth / 2 - width / 2;
 const isMobile = window.matchMedia('(max-width: 600px)');
 const gameOverEl = document.createElement('div');
 
-// Paddle
+ // Paddle
 const paddleHeight = 10;
 const paddleWidth = 50;
 const paddleDiff = 25;
